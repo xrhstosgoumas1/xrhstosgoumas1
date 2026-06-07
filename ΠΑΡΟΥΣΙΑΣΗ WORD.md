@@ -382,9 +382,9 @@ App.js
 
 Στην πρώτη επίσκεψη της συνεδρίας παίζει 4-δευτερόλεπτο intro: μαύρη οθόνη, λευκές συμβιωτικές σταγόνες πέφτουν από πάνω σαν βροχή, εμφανίζεται το spider logo με zoom-in, μετά το λογότυπο SPIDERMANIAC, μετά η ατάκα *"A tribute to the hero who inspired me to be better"*. Skip με click. Αποθηκεύεται στο sessionStorage ώστε να μην επαναλαμβάνεται.
 
-### 10.2 GTA-style scroll prologue
+### 10.2 Style scroll prologue
 
-Η αρχική σελίδα (`/`) είναι χωρισμένη σε τρεις vertical sections. Καθώς ο χρήστης κάνει scroll, το background κινείται με parallax (λιγότερο γρήγορα από τον foreground), το κείμενο fade-άρει σταδιακά, και οι εικόνες αναπνέουν με ελαφριές κινήσεις. Είναι εμπνευσμένο από κινηματογραφικά websites όπως αυτό του GTA VI.
+Η αρχική σελίδα (`/`) είναι χωρισμένη σε τρεις vertical sections. Καθώς ο χρήστης κάνει scroll, το background κινείται με parallax (λιγότερο γρήγορα από τον foreground), το κείμενο fade-άρει σταδιακά, και οι εικόνες αναπνέουν με ελαφριές κινήσεις. Είναι εμπνευσμένο από κινηματογραφικά websites.
 
 ### 10.3 Σύστημα authentication
 
