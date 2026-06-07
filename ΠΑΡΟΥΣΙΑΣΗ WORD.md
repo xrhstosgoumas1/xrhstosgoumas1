@@ -149,7 +149,7 @@
 
 Στην πρώτη επίσκεψη παίζει σύντομη ταινία intro: μαύρη οθόνη, λευκές συμβιωτικές σταγόνες πέφτουν από πάνω, εμφανίζεται το spider logo, μετά το λογότυπο SPIDERMANIAC, μετά η ατάκα. Skip με click. Δεν επαναλαμβάνεται στην ίδια συνεδρία (sessionStorage flag).
 
-### GTA 6-style scroll prologue
+### Style scroll prologue
 
 Μετά το intro, ο επισκέπτης βλέπει σελίδα που αποτελείται από τρεις διαδοχικές οθόνες scroll. Πρώτα έρχεται το quote *"A tribute to my hero who inspired me to be better"* με τον Black Spider-Man σαν φόντο, με parallax effect. Έπειτα το μανιφέστο "Two Sides. One Hero." με φωτογραφίες των δύο εκδοχών αριστερά-δεξιά. Τέλος, το split-screen choice που οδηγεί στο `/classic` ή `/symbiote`.
 
